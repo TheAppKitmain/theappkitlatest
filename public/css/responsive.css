@@ -1,0 +1,1922 @@
+@media (min-width: 1751px) and (max-width: 5000px) {
+    div#theme-showcase .modal-content {
+        max-height: 520px;
+        overflow: hidden;
+    }
+    .pricebox.pricebox-custom {
+        min-height: 643px;
+    }  
+    .appkit_pricing {
+        position: absolute;
+        width: 213px;
+        margin-left: -106px!important;
+        left: 50%!important;
+        bottom: 54px!important;
+    }
+    .our-shopify-mobleft h3 {
+        padding-top: 19%;
+    }
+}
+
+@media (min-width: 1500px) and (max-width: 1750px) {
+    h2.letsh {
+        font-size: 140px !important;
+    }
+    .log-in-wrapper {
+        background-size: 98%;
+    }
+    .contact-us-wrapper {
+        min-height: 85vh;
+    }
+    div#theme-showcase .modal-content {
+        max-height: 520px;
+        overflow: hidden;
+    }
+    .pricebox.pricebox-custom {
+        min-height: 645px;
+    }
+    .appkit_pricing {
+        position: absolute;
+        width: 213px;
+        margin-left: -106px!important;
+        left: 50%!important;
+        bottom: 54px!important;
+    }
+    .our-shopify-mobleft h3 {
+        padding-top: 19%;
+    }
+    .btn-container.mt-5.price-btnbox .btn-color {
+        bottom: 36px!important;
+        padding: 9px 20px;
+        margin-bottom: 0px;
+        position: absolute;
+        width: 198px;
+        margin-left: -99px!important;
+        left: 50%!important;
+    }
+    .pricebox {
+        min-height: 645px;
+    }
+}
+
+@media (min-width: 1366px) and (max-width: 1499px) {
+    .pricebox {
+        min-height: 619px;
+    }
+    .our-shopify-mobleft h3 {
+        padding-top: 19%;
+    }
+    .ul-details li.list-inline-item {
+        margin-bottom: 16px;
+    }
+    .pricing-wrapper .container {
+        max-width: 82%;
+    }
+    .pricing-wrapper .container .btn-container.mt-5.price-btnbox a {
+        margin-top: 0px!important;
+    }
+    .pricebox.pricebox-custom {
+        min-height: 619px;
+    }
+    .appkit_pricing {
+        position: absolute;
+        width: 198px;
+        margin-left: -106px!important;
+        left: 50%!important;
+        bottom: 29px!important;
+        padding: 9px 20px;
+    }
+    
+    
+    ul.feturs-ul li {
+        font-size: 14px!important;
+    }
+    h6.pricnew {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    #app-showcase button.owl-prev {
+        left: -41px;
+    }
+    #app-showcase button.owl-next {
+        right: -49px;
+    }
+    h2.letsh {
+        font-size: 123px!important;
+    }
+    img.mobshow {
+        max-width: 360px;
+    }
+    .col-md-6.left-onlinestore-text {
+        padding-left: 4%;
+    }
+    .onlinestore-box-banner {
+        padding-left: 9%;
+    }
+    .log-in-wrapper {
+        height: 95vh;
+        background-size: 100%;
+        padding-top: 2%;
+    }
+    .log-in-wrapper {
+        background-size: 101%;
+        height: 79vh;
+    }
+    .right-login {
+        margin-top: 167px;
+    }
+    .log-in-wrapper {
+        background-size: 84%;
+        height: 81vh;
+        background-position: 93%;
+    }
+    .left-login-text h1,
+    .left-login-text h2 {
+        font-size: 144px;
+    }
+    .col-md-6.signup-right .form-group.form-group-custome {
+        margin-top: 19px;
+    }
+    .col-md-6.signup-right {
+        padding: 0px 40px 40px 40px;
+    }
+    .sign-up-conteiner {
+        margin-top: 3%;
+    }
+    .selectplan-container h2 {
+        padding: 18px 0px;
+    }
+    .selectplan-container {
+        width: 100%;
+    }
+    .btn-container.mt-5.selectplan-btnbox {
+        margin-top: 17px!important;
+    }
+    .left-login-text h2 {
+        top: -35px;
+        left: -71px;
+    }
+    .form-group.form-group-custome {
+        margin-top: 32px;
+    }
+    .getintouch-text .form-group.form-group-custome {
+        margin-top: 16px;
+    }
+    textarea.form-control.area-text {
+        height: 76px;
+    }
+    .right-contact h4 {
+        padding-top: 141px;
+    }
+    .contact-us-wrapper {
+        padding: 40px 0px;
+    }
+    .pricebox-inner {
+        padding: 25px 27px;
+    }
+    .price-btnbox a.btn-color.btn-style {
+        margin: 13px auto 30px;
+    }
+    .pricebox-inner {
+        padding: 25px 25px;
+    }
+    .btn-container.mt-5.price-btnbox {
+        margin-top: 20px!important;
+    }
+    .smallmainwrapper {
+        margin-left: 39%!important;
+    }
+    .banner {
+        padding: 20px 0px 80px;
+    }
+    .left-banner-text h1 {
+        margin-top: 67px;
+    }
+    div#theme-showcase .modal-content {
+        max-height: 520px;
+        overflow: hidden;
+    }
+    .resbanner-top h1 {
+        margin: 12% 0% 20px;
+    }
+    .btn-container.mt-5.price-btnbox .btn-color {
+        bottom: 36px!important;
+        padding: 9px 20px;
+        margin-bottom: 0px;
+        position: absolute;
+        width: 198px;
+        margin-left: -99px!important;
+        left: 50%!important;
+    }
+}
+
+@media (min-width: 1200px) and (max-width: 1365px) {
+    .pricebox {
+        min-height: 646px;
+    }
+    .our-shopify-mobleft h3 {
+        padding-top: 19%;
+    }
+    .resbanner-top h1 {
+        margin: 12% 0% 20px;
+    }
+    ul.feturs-ul li {
+        font-size: 14px!important;
+    }
+    h6.pricnew {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .pricing-wrapper .container {
+        max-width: 88%;
+    }
+    .pricing-wrapper .container .btn-container.mt-5.price-btnbox a {
+        margin-top: 0px!important;
+    }
+    .pricebox.pricebox-custom {
+        min-height: 645px;
+    }
+    .appkit_pricing {
+        position: absolute;
+        width: 198px;
+        margin-left: -99px!important;
+        left: 50%!important;
+        bottom: 42px!important;
+        padding: 11px 0px;
+    }
+    
+    
+    .mainwrapper.sup-admin-mainwrapper td,
+    .mainwrapper.sup-admin-mainwrapper th {
+        font-size: 12px;
+    }
+    #app-showcase button.owl-prev {
+        left: -41px;
+    }
+    #app-showcase button.owl-next {
+        right: -49px;
+    }
+    h2.letsh {
+        font-size: 123px!important;
+    }
+    img.mobshow {
+        max-width: 360px;
+    }
+    .col-md-6.left-onlinestore-text {
+        padding-left: 4%;
+    }
+    .onlinestore-box-banner {
+        padding-left: 9%;
+    }
+    .log-in-wrapper {
+        height: 95vh;
+        background-size: 100%;
+        padding-top: 2%;
+    }
+    .log-in-wrapper {
+        background-size: 101%;
+        height: 79vh;
+    }
+    .right-login {
+        margin-top: 167px;
+    }
+    .log-in-wrapper {
+        background-size: 103%;
+        height: 81vh;
+    }
+    .left-login-text h1,
+    .left-login-text h2 {
+        font-size: 129px;
+    }
+    .left-login-text h2 {
+        top: -49px;
+        left: -140px;
+    }
+    .form-group.form-group-custome {
+        margin-top: 30px;
+    }
+    .log-in-wrapper {
+        background-size: 92%;
+        height: 80vh;
+        background-position: 125% 18%;
+    }
+    .getstartapp {
+        padding: 52px 0px 60px;
+    }
+    .left-login-text {
+        padding-top: 24%;
+    }
+    div#theme-showcase .modal-content {
+        max-height: 520px;
+        overflow: hidden;
+    }
+    .btn-container.mt-5.price-btnbox .btn-color {
+        bottom: 36px!important;
+        padding: 9px 20px;
+        margin-bottom: 0px;
+        position: absolute;
+        width: 198px;
+        margin-left: -99px!important;
+        left: 50%!important;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    .pricebox {
+        min-height: 646px;
+    }
+    .pricing-wrapper .container {
+        max-width: 100%;
+    }
+    .appkit_pricing {
+        position: unset;
+        margin-left: 0px;
+    }
+    nav.navbar.navbar-expand-lg.navbar-light.navbar-custom ul.navbar-nav.ml-auto li {
+        margin-right: 17px;
+    }
+    .row.sliderow {
+        width: 707px;
+        top: 213px;
+        left: 121px;
+    }
+    .col-md-6.left-onlinestore-text h2 {
+        font-size: 37px;
+    }
+    img.createapp-rytimg {
+        bottom: 3%;
+        right: 13%;
+    }
+    video#vid2,
+    video#vid3,
+    video#vid4,
+    video#vid5,
+    video#vid6 {
+        width: 269px!important;
+        border-radius: 100px;
+        border-bottom-left-radius: 106px;
+        border-bottom-right-radius: 99px;
+        height: 638px;
+    }
+    .app-video {
+        left: 12px;
+        top: -25px;
+        z-index: 3;
+    }
+    img.appfrm {
+        width: 292px!important;
+    }
+    div#clientsliderprop img.appfrm {
+        width: auto!important;
+    }
+    .video-box-banner {
+        position: relative;
+        left: -47px;
+    }
+    a.navbar-brand {
+        font-size: 39px;
+    }
+    h2.letsh {
+        font-size: 102px!important;
+    }
+    img.mobshow {
+        max-width: 332px;
+    }
+    #testimonial .owl-dots {
+        bottom: 116px;
+    }
+    .onlinestore-box-banner {
+        padding-left: 0%;
+    }
+    .col-md-6.left-onlinestore-text {
+        padding-left: 4%;
+    }
+    .left-banner {
+        padding-top: 26%;
+    }
+    .ryt-img {
+        padding-top: 5%;
+    }
+    .left-banner h1 {
+        font-size: 41px;
+        line-height: 45px;
+        padding: 20px 0px;
+    }
+    .bk-img {
+        height: auto;
+    }
+    .left-banner h4:before {
+        width: 49px;
+        left: -55px;
+        top: 8px;
+    }
+    .log-in-wrapper {
+        background: none;
+    }
+    nav.navbar.navbar-expand-lg.navbar-light.navbar-custom ul.navbar-nav.ml-auto li>a {
+        font-size: 13px;
+    }
+    .left-login-text h1,
+    .left-login-text h2 {
+        font-size: 142px;
+    }
+    .main-payment-wrapper .d-flex {
+        display: unset!important;
+    }
+    .main-payment-wrapper .midle-pay {
+        width: 100%;
+    }
+    .main-payment-wrapper .right-pay,
+    .main-payment-wrapper .right-pay {
+        width: 100%;
+    }
+    .ch-checkbox span {
+        font-size: 12px;
+    }
+    .pull-right.forgot {
+        width: 44%;
+    }
+    .selectplan-container .container {
+        max-width: 100%;
+    }
+    .selectplan-inner h4 {
+        font-size: 14px;
+        padding-top: 10px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .selectplan-inner h3 {
+        font-size: 19px;
+    }
+    .selectplan-inner h4 {
+        font-size: 13px;
+        padding-top: 0px;
+    }
+    .selectplan-btnbox button.btn-color {
+        width: 100%!important;
+        display: block;
+        margin: 0 auto;
+        padding: 8px 0px;
+    }
+    .selectplan-inner .btn-container.mt-5.selectplan-btnbox {
+        margin-top: 21px!important;
+    }
+    .select-template-wrapper {
+        padding: 18px 0px 0px;
+    }
+    .modal-dialog {
+        max-width: 697px;
+    }
+    h2.cat-h {
+        font-size: 15px;
+    }
+    .select-template-wrapper .our-work-img {
+        height: auto;
+    }
+    .col-md-4.ourworkcol.default_show {
+        margin-bottom: 0px;
+    }
+    .selectplan-btnbox a {
+        padding: 13px 10px !important;
+        width: 100%!important;
+        display: block;
+        margin: 0 auto;
+        text-align: center;
+        width: 100%;
+        display: block;
+        margin: 0 auto;
+        padding: 8px 0px;
+        font-size: 15px!important;
+    }
+    .pricing-wrapper .container {
+        max-width: 100%;
+    }
+    .appkit_pricing {
+        position: unset;
+        margin-left: 0px;
+    }
+    ul.social-icons {
+        margin-left: 8px !important;
+        margin-top: 1px !important;
+    }
+    img.appfrm {
+        width: 336px!important;
+    }
+    img.mobshow {
+        max-width: 311px;
+        margin: 0 auto;
+        display: block;
+    }
+    .price-btnbox a.btn-color.btn-style {
+        padding: 6px 18px;
+        font-size: 20px;
+        margin: 80px auto 30px;
+        width: 166px;
+    }
+    .getstartapp .col-md-6 {
+        width: 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    h2.letsh {
+        font-size: 148px!important;
+        display: block;
+        margin: 0 auto;
+    }
+    .btn-container.mt-5 {
+        text-align: left;
+    }
+    img.tstimgl {
+        width: 200px!important;
+        height: 200px;
+    }
+    .row.sliderow {
+        width: 100%;
+        position: unset;
+    }
+    img.bgslider {
+        display: none!important;
+    }
+    .col-md-6.left-onlinestore-text {
+        padding-left: 6%;
+    }
+    .video-box-banner {
+        position: relative;
+        left: -135px;
+    }
+    .left-banner-text h1 {
+        font-size: 40px;
+        padding-top: 4%;
+        padding-right: 22%;
+    }
+    .banner p.mt-3 {
+        line-height: 22px;
+        font-size: 13px;
+        padding-right: 31%;
+    }
+    .banner {
+        padding: 50px 0px;
+    }
+    .onlinestore-box-container {
+        margin-left: -13%;
+    }
+    img.createapp-rytimg {
+        bottom: 1%;
+        right: 35%;
+        width: 74px;
+    }
+    .app-video {
+        left: -1px;
+        top: 16px;
+    }
+    .app-showcase-sec.playstoresec img.btnandroid {
+        width: 156px;
+    }
+    .ourclienttitle {
+        font-size: 34px;
+        margin-bottom: 34px;
+    }
+    #testimonial .owl-dots {
+        bottom: -15px;
+    }
+    .app-video video,
+    .video-box-right video {
+        border-bottom-left-radius: 117px;
+        border-bottom-right-radius: 117px;
+    }
+    .col-md-6.left-onlinestore-text h2 {
+        font-size: 26px;
+    }
+    .createapp {
+        padding: 80px 0px;
+    }
+    .btn-style {
+        padding: 12px 40px;
+    }
+    .left-banner {
+        padding-top: 26%;
+    }
+    .ryt-img {
+        padding-top: 5%;
+    }
+    .left-banner h1 {
+        font-size: 41px;
+        line-height: 45px;
+        padding: 20px 0px;
+    }
+    .bk-img {
+        height: auto;
+    }
+    .left-banner h4:before {
+        width: 49px;
+        left: -55px;
+        top: 8px;
+    }
+    .header-menu.desktop-navbar {
+        display: none;
+    }
+    .mob-navbar {
+        display: block;
+        margin: 8px;
+        box-shadow: 0 1px 6px 0 rgba(32, 33, 36, .28);
+        padding: 10px;
+    }
+    .log-in-wrapper {
+        background: no-repeat;
+        background: none;
+        height: auto;
+    }
+    .left-login-text h1,
+    .left-login-text h2 {
+        font-size: 123px;
+    }
+    .log-in-wrapper {
+        margin-bottom: 70px;
+        min-height: 76vh;
+    }
+    img.prcafter {
+        display: none;
+    }
+    .pricebox-top h3 span {
+        font-size: 14px;
+        padding-left: 15px;
+        position: absolute;
+        left: -12px;
+        top: 36px;
+    }
+    .pricebox-top h3 {
+        font-size: 32px;
+        font-weight: 500;
+        text-align: left;
+        position: relative;
+        top: -8px;
+    }
+    .pricebox-top h3 span:after {
+        background: #ffffff00;
+    }
+    .main-payment-wrapper .d-flex {
+        display: unset!important;
+    }
+    .main-payment-wrapper .midle-pay {
+        width: 100%;
+    }
+    .main-payment-wrapper .right-pay,
+    .main-payment-wrapper .right-pay {
+        width: 100%;
+    }
+    ul.feturs-ul li {
+        font-size: 12px;
+        margin-bottom: 0px;
+    }
+    .pricebox-top h3 {
+        font-size: 24px;
+        top: 0px;
+    }
+    
+    .pricebox-inner h5 {
+        font-size: 13px;
+    }    
+    .pricebox-inner {
+        padding: 25px 11px;
+    }
+    .col-md-6.signup-left {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .left-sign-text {
+        padding-top: 10%;
+    }
+    .col-md-6.signup-right {
+        padding: 40px 40px 40px 40px;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .banner.solution-ecommerce h1 {
+        font-size: 29px;
+        margin-top: 0px;
+        padding-top: 0px;
+    }
+    .getintouch-text {
+        padding: 14px;
+    }
+    .getintouch-text h1 {
+        text-align: center !important;
+        color: #5f2cc9;
+        font-weight: 800;
+        font-size: 37px;
+    }
+    .getintouch-text .btn-container.mt-5.text-center.buttonHolder {
+        margin-top: 0px!important;
+    }
+    .getintouch-text input.btn-color.btn-style {
+        padding: 7px 49px;
+        font-size: 18px;
+        font-weight: 600;
+    }
+    div#myTabContent h3 {
+        text-align: center;
+    }
+    .cus-p {
+        font-size: 12px;
+        line-height: 19px;
+    }
+    div#profile a.btn-color.btn-style,
+    div#home a.btn-color.btn-style {
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+    .mob-navbar nav.overlay-menu.navbar.navbar-expand-lg.navbar-light.navbar-custom {
+        height: auto;
+        background: transparent;
+    }
+    ul.close-icon {
+        position: absolute;
+        right: 27px;
+        top: 23px;
+    }
+    li.nav-item.dropdown-mobile a.dropdown-item {
+        color: #000;
+        padding: 0px 26px;
+        margin-bottom: 6px;
+        font-weight: 600;
+        font-size: 19px;
+    }
+    .dropdown-mobile .dropdown-menu.dropdown-menu-right {
+        z-index: 9;
+        position: relative;
+    }
+    li.nav-item.dropdown-mobile a#navbarDropdown {
+        padding: 0px;
+    }
+    .dropdown-mobile .dropdown-menu.dropdown-menu-right {
+        z-index: 9;
+        position: relative;
+        transform: translateY(-17px);
+    }
+    .overlay ul li {
+        margin-left: 29px;
+    }
+    .menu-top {
+        width: 100%;
+    }
+    .slidrrightclient {
+        position: unset;
+    }
+}
+
+@media (min-width: 551px) and (max-width: 767px) {
+    .appkit_pricing {
+        position: unset;
+        margin-left: 0px;
+    }
+    .our-work-img {
+        width: 357px;
+        height: 739px;
+        margin-bottom: 50px;
+        margin: 0 auto 50px;
+        display: block;
+    }
+    .ourworkul {
+        margin-bottom: 40px;
+        display: unset!important;
+    }
+    .ourworkul li {
+        margin-right: 0px;
+        text-align: center;
+        border: 1px solid #969696;
+        margin-bottom: 12px;
+        padding: 12px;
+    }
+    li.active-workli:before {
+        background: #5b4ad900;
+        width: 0px;
+    }
+    li.active-workli {
+        color: #5b4ad9;
+        border: 1px solid #5b4ad9;
+        background: #5b4ad917;
+    }
+    .overlay nav {
+        font-size: 20px;
+    }
+    .menu-top {
+        margin-top: 28%!important;
+    }
+    .overlay ul li {
+        margin-left: 21px;
+    }
+    img.arrow {
+        width: 22px;
+        margin-left: 6px;
+    }
+    ul.social-icons {
+        margin-left: 0px!important;
+        margin-top: 21px!important;
+    }
+    .left-banner h4:before {
+        width: 49px;
+        left: -55px;
+        top: 8px;
+    }
+    .left-banner h1 {
+        font-size: 41px;
+        line-height: 48px;
+        padding: 15px 0px;
+    }
+    .main-wrapper-top {
+        padding: 0px;
+    }
+    .navbar.navbar-custom {
+        padding: 0px 10px;
+        height: 62px;
+        background: #fff;
+    }
+    .left-banner {
+        padding-top: 10%;
+    }
+    .open-menu,
+    .close-menu {
+        cursor: pointer;
+        transition: transform 0.30s;
+        width: 28px;
+    }
+    .header-menu.desktop-navbar {
+        display: none;
+    }
+    .mob-navbar {
+        display: block;
+        margin: 8px;
+        box-shadow: 0 1px 6px 0 rgba(32, 33, 36, .28);
+        padding: 10px;
+    }
+    .sign-up-conteiner {
+        margin-bottom: 60px;
+    }
+    .onlinestore-box-banner {
+        padding-left: 0%;
+    }
+    .video-box-container img.bnrph {
+        z-index: 4;
+        position: relative;
+        width: 308px;
+    }
+    .video-box-right {
+        top: 22px;
+        left: 65px;
+    }
+    video#vid {
+        width: 170px;
+    }
+    video#vid7 {
+        width: 241px;
+    }
+    .video-box-right {
+        top: -54px;
+        left: 65px;
+    }
+    h2.letsh {
+        font-size: 71px!important;
+        text-align: center;
+    }
+    img.mobshow {
+        max-width: 226px;
+        display: block;
+        margin: 0 auto;
+    }
+    a.navbar-brand {
+        font-size: 33px;
+    }
+    .left-banner-text h1 {
+        font-size: 33px;
+        padding-top: 0%;
+    }
+    video#vid2,
+    video#vid3,
+    video#vid4,
+    video#vid6,
+    video#vid5 {
+        width: 299px;
+    }
+    .app-video {
+        position: absolute;
+        left: 19px;
+        top: -2px;
+        z-index: 3;
+    }
+    .app-show {
+        max-width: 330px;
+        display: block;
+        margin: 0 auto;
+    }
+    .video-box-container {
+        position: relative;
+        display: block;
+        margin: 66px auto 0px;
+        width: 333px;
+    }
+    .col-md-6.left-onlinestore-text {
+        padding: 50px 15px;
+    }
+    .col-md-6.left-onlinestore-text h2 {
+        font-size: 29px;
+    }
+    .btn-style {
+        padding: 11px 39px;
+        color: #fff;
+        font-size: 23px;
+        min-width: 257px;
+        text-align: center;
+    }
+    .banner {
+        padding: 40px 0px 60px;
+    }
+    img.ocrpimg {
+        width: 312px;
+        margin: 0 auto;
+        display: block;
+    }
+    img.createapp-rytimg {
+        bottom: 1%;
+        right: 13%;
+    }
+    .btn-container {
+        text-align: center;
+    }
+    .row.sliderow {
+        width: 100%;
+        position: unset;
+    }
+    #testimonial button.owl-prev,
+    #testimonial button.owl-next {
+        display: none;
+    }
+    .textbx p,
+    .sliderow h3,
+    .sliderow h5 {
+        text-align: center;
+        padding-left: 0px;
+    }
+    #testimonial .owl-dots {
+        bottom: -40px;
+    }
+    .testuserimg img {
+        width: 267px!important;
+        height: 267px;
+        margin-left: 16px;
+        display: block;
+        margin: 0 auto;
+    }
+    img.bgslider {
+        display: none!important;
+    }
+    .getstartapp {
+        padding: 20px 0px 60px 0px;
+    }
+    .onlinestore-box-container {
+        position: relative;
+        margin-left: 0%;
+    }
+    .left-login-text h1,
+    .left-login-text h2 {
+        font-size: 95px;
+    }
+    .log-in-wrapper {
+        background: none;
+        height: auto;
+    }
+    img.shap9 {
+        display: none;
+    }
+    .right-login {
+        margin-top: 0px;
+    }
+    .right-login .form-group.form-group-custome {
+        margin-top: 28px;
+    }
+    .col-md-6.signup-right {
+        padding: 40px 15px 40px 15px;
+    }
+    .left-sign-text h1.color-white {
+        font-size: 35px;
+    }
+    .left-sign-text {
+        padding-top: 7%;
+        text-align: center;
+    }
+    .col-md-6.signup-right h2 {
+        font-size: 25px;
+    }
+    .left-sign-text h2.color-white {
+        font-size: 26px;
+    }
+    .ourclienttitle {
+        margin-bottom: 40px;
+        font-size: 47px;
+    }
+    .navbar-nav .dropdown-menu {
+        display: none;
+    }
+    ul.navbar-nav.ml-auto li {
+        margin-bottom: 19px;
+    }
+    nav.navbar.navbar-expand-lg.navbar-light.navbar-custom ul.navbar-nav.ml-auto li {
+        margin-bottom: 20px;
+    }
+    .log-in-wrapper {
+        height: auto;
+    }
+    .left-login-text h1,
+    .left-login-text h2 {
+        font-size: 108px;
+    }
+    .left-login-text {
+        padding-top: 0%;
+    }
+    .row.signinrow .left-login-text .btn-container.mt-5 {
+        display: none;
+    }
+    .log-in-wrapper {
+        height: auto;
+        padding-top: 0px;
+        padding-bottom: 73px;
+    }
+    .btn-containercreate-ac.mt-5.text-center {
+        margin-top: 11px!important;
+    }
+    a.btn-create-ac {
+        font-size: 16px;
+    }
+    .right-login .btn-container.mt-5.text-center {
+        margin-top: 10px!important;
+    }
+    .col-md-6.signup-right .form-group.form-group-custome {
+        margin-top: 5px;
+    }
+    img.selectplanimg {
+        width: 100%;
+    }
+    .selectplan-container a.btn-color.btn-style {
+        width: 256px;
+        padding: 13px 15px;
+    }
+    .selectplan-container h2,
+    .owr-work h2 {
+        font-size: 31px;
+        font-weight: 700;
+    }
+    .price-tabs ul.nav-tabs {
+        width: 300px;
+    }
+    .price-tabs ul.nav-tabs .nav-link {
+        height: 59px;
+        width: 137px;
+    }
+    .price-tabs ul.nav-tabs .nav-link.active {
+        width: 162px;
+    }
+    .pricebox-inner {
+        padding: 25px 25px;
+        margin-bottom: 30px;
+    }
+    img.im {
+        width: 22px;
+    }
+    .price-btnbox a.btn-color.btn-style {
+        margin: 17px auto 30px;
+    }
+    .owr-work {
+        position: relative;
+    }
+    .log-in-wrapper {
+        background: no-repeat;
+    }
+    .getintouch-text {
+        padding: 23px;
+    }
+    .right-contact h4 {
+        padding-top: 50px;
+    }
+    .price-tabs ul.nav-tabs {
+        position: unset;
+        margin-bottom: 32px;
+        margin: 0 auto 35px;
+    }
+    img.prcafter {
+        display: none;
+    }
+    .pricebox {
+        text-align: center;
+    }
+    .pricebox-top h3 span {
+        text-align: center;
+        width: 100%;
+        display: inline-block;
+    }
+    .pricebox-top h3 {
+        text-align: center;
+    }
+    .pricebox-top h3 span:after {
+        background: #ffffff00;
+    }
+    .lets-talk .top-des h2 {
+        text-align: center;
+    }
+    .lets-talk .top-des h2:after {
+        width: 100%;
+    }
+    ul.select-template-ul {
+        padding: 0px 0px 60px;
+    }
+    li.crac:before,
+    li.crac:after {
+        width: 0px;
+    }
+    ul.select-template-ul.text-center li {
+        margin: 0px 1%;
+        font-size: 12px;
+    }
+    h2.cat-h {
+        font-size: 23px;
+    }
+    .onlinestore-box-right {
+        top: 10px;
+        left: 49px;
+    }
+    .banner,
+    .onlinestore,
+    .createapp {
+        text-align: center;
+    }
+    .video-box-right {
+        top: -54px;
+        left: 81px;
+    }
+    video#vid2,
+    video#vid3,
+    video#vid4,
+    video#vid6,
+    video#vid5 {
+        width: 299px;
+    }
+    .main-payment-wrapper .d-flex {
+        display: unset!important;
+    }
+    .main-payment-wrapper .midle-pay {
+        width: 100%;
+    }
+    .main-payment-wrapper .right-pay,
+    .main-payment-wrapper .right-pay {
+        width: 100%;
+    }
+    .owr-work .our-work-img img.bgmb {
+        display: block;
+        margin: 0 auto;
+    }
+    .sign-up-wrapper {
+        overflow: hidden;
+    }
+    .ch-checkbox span {
+        font-size: 11px;
+    }
+    form#registration .pull-right.forgot a {
+        font-size: 12px;
+    }
+    .pull-right.forgot {
+        width: 43%;
+    }
+    .menu-top {
+        margin-top: 16%!important;
+        width: 100%;
+    }
+    .onlinestore-box-container {
+        margin-left: 25%;
+    }
+    .app-video {
+        left: 13px;
+        top: -105px;
+        border-radius: 20px;
+    }
+    video#vid2,
+    video#vid3,
+    video#vid4,
+    video#vid6,
+    video#vid5 {
+        width: 216px;
+        height: 686px;
+    }
+    .col-md-6.left-inside-app,
+    .inside-app {
+        text-align: center;
+    }
+    .inside-app {
+        text-align: center;
+    }
+    .inside-app.maximize-app .ecimg {
+        margin-top: 0px;
+    }
+    h6.pricnew {
+        font-size: 14px;
+    }
+    .banner.solution-ecommerce h1 {
+        margin-top: 0px;
+    }
+    .ecimg {
+        margin-top: 72px;
+    }
+    .left-banner-text h1 {
+        padding-top: 0%;
+    }
+    .app-video video,
+    .video-box-right video {
+        width: 217px!important;
+    }
+    .banner video#vid {
+        width: 170px!important;
+    }
+    .left-login-text {
+        padding-top: 10%;
+    }
+    .log-in-wrapper {
+        min-height: 79.4vh;
+    }
+    .mob-navbar nav.overlay-menu.navbar.navbar-expand-lg.navbar-light.navbar-custom {
+        height: auto;
+        background: transparent;
+    }
+    ul.close-icon {
+        position: absolute;
+        right: 19px;
+        top: -26px;
+    }
+    li.nav-item.dropdown-mobile a.dropdown-item {
+        color: #000;
+        padding: 0px 26px;
+        margin-bottom: 6px;
+        font-weight: 600;
+        font-size: 19px;
+    }
+    .dropdown-mobile .dropdown-menu.dropdown-menu-right {
+        z-index: 9;
+        position: relative;
+    }
+    li.nav-item.dropdown-mobile a#navbarDropdown {
+        padding: 0px;
+    }
+    .dropdown-mobile .dropdown-menu.dropdown-menu-right {
+        z-index: 9;
+        position: relative;
+        transform: translateY(-17px);
+    }
+    .resbanner-top h1 {
+        font-size: 32px;
+        line-height: 48px;
+    }
+    a.residencebtn {
+        padding: 14px 24px;
+    }
+    .getstartedsection h2 {
+        font-size: 37px !important;
+        line-height: 55px;
+    }
+    .callmebacksection:after {
+        left: -8px;
+    }
+    .slidrrightclient {
+        position: unset;
+        margin-top: 25px;
+    }
+    .banner-ourwork .col-md-3 {
+        width: 33%;
+    }
+    .app-showcase-sec {
+        padding: 30px 0px 100px;
+    }
+    img.soliboyimg_logo {
+        width: 143px!important;
+        display: block;
+        margin: 0 auto 21px;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 550px) {
+    .our-work-img {
+        width: 357px;
+        height: 739px;
+        margin-bottom: 50px;
+        margin: 0 auto 50px;
+        display: block;
+    }
+    .app-showcase-sec {
+        padding: 30px 0px 100px;
+    }
+    .banner-ourwork .col-md-3 {
+        width: 50%;
+    }
+    .ourworkul {
+        margin-bottom: 40px;
+        display: unset!important;
+    }
+    .ourworkul li {
+        margin-right: 0px;
+        text-align: center;
+        border: 1px solid #969696;
+        margin-bottom: 12px;
+        padding: 12px;
+    }
+    li.active-workli:before {
+        background: #5b4ad900;
+        width: 0px;
+    }
+    li.active-workli {
+        color: #5b4ad9;
+        border: 1px solid #5b4ad9;
+        background: #5b4ad917;
+    }
+    .overlay nav {
+        font-size: 20px;
+    }
+    .menu-top {
+        margin-top: 28%!important;
+        width: 100%;
+    }
+    .overlay ul li {
+        margin-left: 21px;
+    }
+    img.arrow {
+        width: 22px;
+        margin-left: 6px;
+    }
+    ul.social-icons {
+        margin-left: 0px!important;
+        margin-top: 21px!important;
+    }
+    .left-banner h4:before {
+        width: 49px;
+        left: -55px;
+        top: 8px;
+    }
+    .left-banner h1 {
+        font-size: 41px;
+        line-height: 48px;
+        padding: 15px 0px;
+    }
+    .main-wrapper-top {
+        padding: 0px;
+    }
+    .navbar.navbar-custom {
+        padding: 0px 10px;
+        height: 62px;
+        background: #fff;
+    }
+    .left-banner {
+        padding-top: 10%;
+    }
+    .open-menu,
+    .close-menu {
+        cursor: pointer;
+        transition: transform 0.30s;
+        width: 28px;
+    }
+    .header-menu.desktop-navbar {
+        display: none;
+    }
+    .mob-navbar {
+        display: block;
+        margin: 8px;
+        box-shadow: 0 1px 6px 0 rgba(32, 33, 36, .28);
+        padding: 10px;
+    }
+    .sign-up-conteiner {
+        margin-bottom: 60px;
+    }
+    .onlinestore-box-banner {
+        padding-left: 0%;
+    }
+    .video-box-container img.bnrph {
+        z-index: 4;
+        position: relative;
+        width: 308px;
+    }
+    .video-box-right {
+        top: 22px;
+        left: 65px;
+    }
+    video#vid {
+        width: 170px;
+    }
+    video#vid7 {
+        width: 241px;
+    }
+    .video-box-right {
+        top: -54px;
+        left: 65px;
+    }
+    h2.letsh {
+        font-size: 71px!important;
+        text-align: center;
+    }
+    img.mobshow {
+        max-width: 226px;
+        display: block;
+        margin: 0 auto;
+    }
+    a.navbar-brand {
+        font-size: 33px;
+    }
+    .left-banner-text h1 {
+        font-size: 33px;
+        padding-top: 0%;
+    }
+    video#vid2,
+    video#vid3,
+    video#vid4,
+    video#vid6,
+    video#vid5 {
+        width: 299px;
+    }
+    .app-video {
+        position: absolute;
+        left: 19px;
+        top: -2px;
+        z-index: 3;
+    }
+    .app-show {
+        max-width: 330px;
+        display: block;
+        margin: 0 auto;
+    }
+    .video-box-container {
+        position: relative;
+        display: block;
+        margin: 66px auto 0px;
+        width: 333px;
+    }
+    .col-md-6.left-onlinestore-text {
+        padding: 50px 15px;
+    }
+    .col-md-6.left-onlinestore-text h2 {
+        font-size: 29px;
+    }
+    .btn-style {
+        padding: 11px 39px;
+        color: #fff;
+        font-size: 23px;
+        min-width: 257px;
+        text-align: center;
+    }
+    .banner {
+        padding: 40px 0px 60px;
+    }
+    img.ocrpimg {
+        width: 312px;
+        margin: 0 auto;
+        display: block;
+    }
+    img.createapp-rytimg {
+        bottom: 1%;
+        right: 13%;
+    }
+    .btn-container {
+        text-align: center;
+    }
+    .row.sliderow {
+        width: 100%;
+        position: unset;
+        margin-left: 0px!important;
+    }
+    #testimonial button.owl-prev,
+    #testimonial button.owl-next {
+        display: none;
+    }
+    .textbx p,
+    .sliderow h3,
+    .sliderow h5 {
+        text-align: center;
+        padding-left: 0px;
+    }
+    #testimonial .owl-dots {
+        bottom: -40px;
+    }
+    .testuserimg img {
+        width: 267px!important;
+        height: 267px;
+        margin-left: 16px;
+        display: block;
+        margin: 0 auto;
+    }
+    img.bgslider {
+        display: none!important;
+    }
+    .getstartapp {
+        padding: 20px 0px 60px 0px;
+    }
+    .onlinestore-box-container {
+        position: relative;
+        margin-left: 0%;
+    }
+    .left-login-text h1,
+    .left-login-text h2 {
+        font-size: 95px;
+    }
+    .log-in-wrapper {
+        background: none;
+        height: auto;
+    }
+    img.shap9 {
+        display: none;
+    }
+    .right-login {
+        margin-top: 0px;
+    }
+    .right-login .form-group.form-group-custome {
+        margin-top: 28px;
+    }
+    .col-md-6.signup-right {
+        padding: 0px 15px 40px 15px;
+    }
+    .left-sign-text h1.color-white {
+        font-size: 35px;
+    }
+    .left-sign-text {
+        padding-top: 7%;
+        text-align: center;
+    }
+    .col-md-6.signup-right h2 {
+        font-size: 25px;
+    }
+    .left-sign-text h2.color-white {
+        font-size: 26px;
+    }
+    .ourclienttitle {
+        margin-bottom: 40px;
+        font-size: 47px;
+    }
+    .navbar-nav .dropdown-menu {
+        display: none;
+    }
+    ul.navbar-nav.ml-auto li {
+        margin-bottom: 19px;
+    }
+    nav.navbar.navbar-expand-lg.navbar-light.navbar-custom ul.navbar-nav.ml-auto li {
+        margin-bottom: 20px;
+    }
+    .log-in-wrapper {
+        height: auto;
+    }
+    .left-login-text h1,
+    .left-login-text h2 {
+        font-size: 108px;
+    }
+    .left-login-text {
+        padding-top: 0%;
+    }
+    .row.signinrow .left-login-text .btn-container.mt-5 {
+        display: none;
+    }
+    .log-in-wrapper {
+        height: auto;
+        padding-top: 0px;
+        padding-bottom: 73px;
+    }
+    .btn-containercreate-ac.mt-5.text-center {
+        margin-top: 11px!important;
+    }
+    a.btn-create-ac {
+        font-size: 16px;
+    }
+    .right-login .btn-container.mt-5.text-center {
+        margin-top: 10px!important;
+    }
+    .col-md-6.signup-right .form-group.form-group-custome {
+        margin-top: 5px;
+    }
+    img.selectplanimg {
+        width: 100%;
+    }
+    .selectplan-container a.btn-color.btn-style {
+        width: 256px;
+        padding: 13px 15px;
+    }
+    .selectplan-container h2,
+    .owr-work h2 {
+        font-size: 24px;
+        font-weight: 700;
+        padding: 35px 0px;
+    }
+    .price-tabs ul.nav-tabs {
+        width: 300px;
+    }
+    .price-tabs ul.nav-tabs .nav-link {
+        height: 59px;
+        width: 137px;
+    }
+    .price-tabs ul.nav-tabs .nav-link.active {
+        width: 162px;
+    }
+    .pricebox-inner {
+        padding: 25px 25px;
+        margin-bottom: 30px;
+    }
+    img.im {
+        width: 22px;
+    }
+    .price-btnbox a.btn-color.btn-style {
+        margin: 17px auto 30px;
+    }
+    .owr-work {
+        position: relative;
+    }
+    .log-in-wrapper {
+        background: no-repeat;
+    }
+    .getintouch-text {
+        padding: 23px;
+    }
+    .right-contact h4 {
+        padding-top: 50px;
+    }
+    .price-tabs ul.nav-tabs {
+        position: unset;
+        margin-bottom: 32px;
+        margin: 0 auto 35px;
+    }
+    img.prcafter {
+        display: none;
+    }
+    .pricebox {
+        text-align: center;
+    }
+    .pricebox-top h3 span {
+        text-align: center;
+        width: 100%;
+        display: inline-block;
+    }
+    .pricebox-top h3 {
+        text-align: center;
+    }
+    .pricebox-top h3 span:after {
+        background: #ffffff00;
+    }
+    .lets-talk .top-des h2 {
+        text-align: center;
+    }
+    .lets-talk .top-des h2:after {
+        width: 100%;
+    }
+    ul.select-template-ul {
+        padding: 0px 0px 60px;
+    }
+    li.crac:before,
+    li.crac:after {
+        width: 0px;
+    }
+    ul.select-template-ul.text-center li {
+        margin: 0px 1%;
+        font-size: 12px;
+    }
+    h2.cat-h {
+        font-size: 23px;
+    }
+    .onlinestore-box-right {
+        top: 10px;
+        left: 49px;
+    }
+    .banner,
+    .onlinestore,
+    .createapp {
+        text-align: center;
+    }
+    .video-box-right {
+        top: -54px;
+        left: 81px;
+    }
+    video#vid2,
+    video#vid3,
+    video#vid4,
+    video#vid6,
+    video#vid5 {
+        width: 299px;
+    }
+    .main-payment-wrapper .d-flex {
+        display: unset!important;
+    }
+    .main-payment-wrapper .midle-pay {
+        width: 100%;
+    }
+    .main-payment-wrapper .right-pay,
+    .main-payment-wrapper .right-pay {
+        width: 100%;
+    }
+    .owr-work .our-work-img img.bgmb {
+        display: block;
+        margin: 0 auto;
+    }
+    .sign-up-wrapper {
+        overflow: hidden;
+    }
+    .col-md-6.left-onlinestore-text h4 {
+        font-size: 17px;
+        line-height: 26px;
+    }
+    .ecimg {
+        margin-top: 72px;
+    }
+    .banner.solution-ecommerce h1 {
+        margin-top: 0px;
+    }
+    .ch-checkbox span {
+        font-size: 11px;
+    }
+    .pull-right.forgot {
+        width: 42%;
+    }
+    .pull-right.forgot a {
+        font-size: 13px;
+    }
+    .col-md-6.left-onlinestore-text h4 {
+        font-size: 17px;
+        line-height: 26px;
+    }
+    .col-md-6.left-inside-app,
+    .inside-app {
+        text-align: center;
+    }
+    .inside-app {
+        text-align: center;
+    }
+    .inside-app.maximize-app .ecimg {
+        margin-top: 0px;
+    }
+    h6.pricnew {
+        font-size: 14px;
+    }
+    .log-in-wrapper {
+        min-height: 79.4vh;
+    }
+    .left-login-text {
+        padding-top: 10%;
+    }
+    .selectplan {
+        padding: 15px;
+    }
+    .selectplan-inner h3 {
+        font-size: 23px;
+    }
+    .sign-up-wrapper {
+        margin-bottom: 0px;
+    }
+    .sign-up-wrapper .btn-container.mt-5.text-center {
+        margin-top: 15px!important;
+    }
+    .banner.solution-ecommerce {
+        padding: 70px 0px;
+    }
+    .inside-app.maximize-app h4 {
+        font-size: 21px;
+        line-height: 31px;
+    }
+    .log-in-wrapper .pull-right.forgot {
+        width: 50%;
+    }
+    .app-video video,
+    .video-box-right video {
+        width: 298px!important;
+    }
+    .banner video#vid {
+        width: 170px!important;
+    }
+    div#home a.btn-color.btn-style {
+        margin: 0 auto;
+    }
+    div#profile a.btn-color.btn-style {
+        margin: 0px auto;
+    }
+    .mob-navbar nav.overlay-menu.navbar.navbar-expand-lg.navbar-light.navbar-custom {
+        height: auto;
+        background: transparent;
+    }
+    ul.close-icon {
+        position: absolute;
+        right: 27px;
+        top: 23px;
+    }
+    li.nav-item.dropdown-mobile a.dropdown-item {
+        color: #000;
+        padding: 0px 26px;
+        margin-bottom: 6px;
+        font-weight: 600;
+        font-size: 19px;
+    }
+    .dropdown-mobile .dropdown-menu.dropdown-menu-right {
+        z-index: 9;
+        position: relative;
+    }
+    li.nav-item.dropdown-mobile a#navbarDropdown {
+        padding: 0px;
+    }
+    .dropdown-mobile .dropdown-menu.dropdown-menu-right {
+        z-index: 9;
+        position: relative;
+        transform: translateY(-17px);
+    }
+    .menu-top {
+        margin-top: 14% !important;
+        width: 100%;
+    }
+    .theme-modal {
+        left: auto;
+        width: 100%;
+        margin-left: 0;
+        padding: 0px!important;
+        max-width: 414px;
+        margin-top: 0px;
+    }
+    div#theme-showcase img.appfrm {
+        max-width: 100%;
+    }
+    .col-md-4.ourworkcol.default_show .our-work-img {
+        width: 100%;
+        max-width: 300px;
+        margin: 53px auto 0;
+        height: auto;
+    }
+    .resbanner-top h1 {
+        font-size: 32px;
+        line-height: 48px;
+    }
+    a.residencebtn {
+        padding: 14px 24px;
+    }
+    .getstartedsection h2 {
+        font-size: 37px !important;
+        line-height: 55px;
+    }
+    .callmebacksection:after {
+        left: -8px;
+    }
+    .slidrrightclient {
+        position: unset;
+        margin-top: 25px;
+    }
+    .banner-shopify {
+        text-align: center;
+    }
+    .createappbtnbox a {
+        margin: 0 auto 20px;
+    }
+    h2.ourshopititle {
+        font-size: 28px;
+    }
+    .our-shopify-mobleft h3 {
+        font-size: 31px;
+        line-height: 39px;
+        text-align: center;
+    }
+    .our-shopify-mobleft p {
+        font-size: 16px;
+        line-height: 27px;
+        text-align: center;
+    }
+    img.appstoreimg {
+        width: 127px!important;
+        display: unset!important;
+    }
+    .mobleftbox {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    h2.ourshopititle {
+        font-size: 28px;
+        line-height: 38px;
+    }
+    .shopifybannerleft h1 {
+        font-size: 26px;
+        line-height: 42px;
+        text-align: center;
+    }
+    .appkit_pricing {
+        position: unset;
+        margin-left: 0px;
+    }
+    img.soliboyimg_logo {
+        width: 143px!important;
+        display: block;
+        margin: 0 auto 21px;
+    }
+    .pull-right.forgot.term-service_2 {
+        width: 39%;
+    }
+    .pull-right.forgot.term-service_2 a {
+        font-size: 12px;
+    }
+    span.term-service_1 {
+        font-size: 10px;
+    }
+}
+
+.forgot-password-wrapper .form-control:focus {
+    outline: 0;
+    box-shadow: 0 0 0 0rem rgba(0, 123, 255, .25);
+    border-color: #6027d7;
+}

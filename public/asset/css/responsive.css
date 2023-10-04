@@ -1,0 +1,1030 @@
+@media (min-width: 1500px) and (max-width: 1700px) {
+    .img-left-admin-top canvas {
+        width: 140px;
+        height: 140px!important;
+    }
+    .circle strong {
+        top: 50px;
+    }
+    .img-left-admin-top img {
+        width: 205px;
+    }
+    .top-right-box-inner h4 {
+        margin-top: 0px;
+    }
+    h3.cont-total {
+        left: 50%;
+        margin-left: -17px;
+    }
+    .admin-status-title-count h4 a {
+        font-size: 17px;
+    }
+}
+
+@media (min-width: 1200px) and (max-width: 1499px) {
+    .cat-box h4 {
+        font-size: 18px;
+    }
+    a.btnedit.btn.btn-success.note_edit {
+        padding: 7px 10px!important;
+    }
+    a.viewbtn {
+        padding: 3px 7px;   
+    }
+    h3.cont-total {
+        margin-left: -17px;
+    }
+    .admin-status-title-count h4 a {
+        font-size: 14px;
+    }
+    .admin-status-title-count {
+        padding: 11px 10px;
+    }
+    span.top-count {
+        width: 33px;
+        height: 33px;
+        padding-top: 8px;
+        font-size: 16px;
+    }
+    .top-right-box-inner h4 {
+        color: #0e1a35;
+        font-weight: 600;
+        margin-top: 26px;
+        font-size: 14px;
+    }
+    h1.top-admin-title {
+        font-size: 42px;
+        letter-spacing: 6px;
+    }
+    .img-left-admin-top img {
+        width: 100%;
+        max-width: 181px;
+    }
+    ul.personal-infoul li img {
+        margin: 6px 11px 17px;
+    }
+    ul.personal-infoul li,
+    ul.proinfo-ul li {
+        font-size: 15px;
+    }
+    p.addressp {
+        font-size: 15px;
+    }
+    h3.title-profile {
+        font-size: 20px;
+    }
+    .statusbox label {
+        padding: 12px;
+        width: 140px;
+        height: 72px;
+    }
+    .circle strong {
+        top: 41px;
+        line-height: 36px;
+        font-size: 30px;
+    }
+    .img-left-admin-top canvas {
+        width: 113px;
+        height: 113px!important;
+    }
+    .img-left-admin-top .circle {
+        width: 135px;
+        margin: 6px 20px 6px;
+    }
+    .w-30 {
+        width: 20%;
+    }
+    .w-70 {
+        width: 80%;
+    }
+    .media.own-media-box .media-body h5 {
+        font-size: 14px;
+        padding-top: 7px;
+    }
+    .medialeft-img-user img {
+        width: 30px;
+        height: 30px;
+        border-radius: 23px;
+        margin-top: 8px;
+    }
+    .medialeft-img-user-text {
+        width: 30px;
+        height: 30px;
+        font-size: 15px;
+        padding-top: 5px;
+        top: 20px;
+        left: 15px;
+    }
+    .media.own-media-box {
+        padding: 12px 15px;
+    }
+    .media.own-media-box .media-body h5 {
+        font-size: 14px;
+        padding-top: 7px;
+    }
+    .media.own-media-box .media-body p {
+        font-size: 13px;
+    }
+    h3.adminname-top {
+        font-size: 23px;
+    }
+    ul.sidenavbarul li a {
+        font-size: 15px;
+    }
+    .admin-status-title-count h4 {
+        margin-top: 2px;
+    }
+    .row.admin-status-row .col-md-3 {
+        flex: 0 0 33%;
+        max-width: 33%;
+    }
+    .row.admin-status-row .col-md-3 {
+        -ms-flex: 0 0 25%;
+        flex: 0 0 33%;
+        max-width: 33%;
+    }
+    span.w-100.float-left.text-center.viewmorebtnprofile {
+        font-size: 13px;
+    }
+    ul.new-stylist-ul li {
+        font-size: 13px;
+    }
+    h3.table-title-main {
+        font-size: 20px;
+    }
+    ol.breadcrumb.breadcrumb-own-admin li {
+        font-size: 18px;
+    }
+    ol.breadcrumb.breadcrumb-own-admin li a {
+        font-size: 18px;
+    }
+    .table-bordered td {
+        font-size: 13px;
+    }
+    table.table-bordered.dataTable th {
+        font-size: 14px;
+    }
+    div.dataTables_info {
+        font-size: 14px;
+    }
+    .dataTables_paginate a {
+        font-size: 14px;
+    }
+    .daycontainer h3 {
+        padding-top: 0px;
+    }
+    .desk-mt-20 {
+        margin-top: 20px;
+    }
+    .row.home-row-main {
+        padding: 20px 10px;
+    }
+    h1.letsh {
+        font-size: 34px!important;
+    }
+    .mainwrapper.sup-admin-mainwrapper td,
+    .mainwrapper.sup-admin-mainwrapper th {
+        font-size: 12px;
+        padding-left: 3px;
+    }
+    .table-height-container table.table th,
+    .table-height-container table.table td {
+        font-size: 12px;
+        padding-left: 3px;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    .mainwrapper.sup-admin-mainwrapper td,
+    .mainwrapper.sup-admin-mainwrapper th {
+        font-size: 12px;
+        padding-left: 3px;
+    }
+    .cat-box h4 {
+        font-size: 18px;
+    }
+    .row.profile-info-row .col-lg-4,
+    .row.profile-info-row .col-lg-8 {
+        -ms-flex: 0 0 33.333333%;
+        flex: 100%;
+        max-width: 100%;
+    }
+    .main-container-inner .col-md-4,
+    .main-container-inner .col-md-8 {
+        -ms-flex: 0 0 100%;
+        flex: 100%;
+        max-width: 100%;
+    }
+    .col-md-3 {
+        -ms-flex: 0 0 100%;
+        flex: 100%;
+        max-width: 100%;
+        margin-bottom: 20px;
+    }
+    .statusbox label {
+        padding: 2px;
+        margin-right: 27px;
+    }
+    .statusbox label h2 {
+        font-size: 16px;
+        padding-top: 15px;
+    }
+    .statusbox input[type="radio"]:checked+label::after {
+        font-size: 16px;
+        bottom: -14px;
+        height: 28px;
+        width: 28px;
+        line-height: 29px;
+        box-shadow: 0px 2px 5px -2px rgba(0, 0, 0, 0.25);
+    }
+    .row.profile-info-row .nav-tabs .nav-link {
+        min-width: 90px;
+        font-size: 18px;
+        padding: 10px 12px;
+    }
+    main {
+        padding: 54px 30px 45px 306px;
+    }
+    .statusbox label {
+        width: 98px;
+        height: 55px;
+    }
+    .stylist_gallery tr {
+        width: 50%;
+        margin: 0px;
+    }
+    .haircutimgbox img {
+        width: 100%;
+        min-width: 180px;
+        max-width: 100%;
+        min-height: 256px;
+        max-height: 180px;
+    }
+    .daystatusbox label {
+        width: 132px;
+    }
+    .table-wrapper {
+        overflow: auto;
+        padding: 50px 0px;
+    }
+    .dataTables_length {
+        width: 100%;
+        padding-left: 13px;
+    }
+    div.dataTables_wrapper div.dataTables_filter {
+        text-align: left!important;
+        padding-left: 13px;
+    }
+    .daystatusbox input[type="radio"]:checked+label::after {
+        font-size: 16px;
+        bottom: 9px;
+        left: 24px;
+        height: 30px;
+        width: 30px;
+        line-height: 30px;
+    }
+    .daystatusbox label h2 {
+        font-size: 17px;
+        margin-top: 11px;
+        padding-left: 5px;
+    }
+    .daystatusbox label {
+        width: 132px;
+        height: 50px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        color: rgba(0, 0, 0, .5);
+        text-align: right;
+    }
+    .collapse:not(.show) {
+        display: block;
+    }
+    ul.navbar-nav.mr-auto {
+        flex-direction: row;
+    }
+    .notification-li .dropdownmenutop {
+        display: none;
+    }
+    .dropdown-menu.dropdownmenutop.show {
+        display: block;
+        z-index: 99999;
+        position: absolute;
+    }
+    .sidemenu-wrapper {
+        z-index: 9;
+    }
+    .img-left-admin-top img {
+        width: 166px;
+    }
+    h3.cont-total {
+        top: 40%;
+    }
+    .row.admin-status-row .col-md-4 {
+        margin-bottom: 20px;
+    }
+    .row.admin-status-row .col-lg-4.col-md-12 {
+        -ms-flex: 0 0 33.333333%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .admin-status-box .row.no-gutters .col-lg-3.col-md-6 {
+        -ms-flex: 0 0 50%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .row.home-row-main {
+        padding: 20px 10px;
+    }
+    .col-md-3.all_apps.myapp-bx-b img.app-frame {
+        width: 100%;
+    }
+    .col-md-3.all_apps.myapp-bx-b {
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+    .card-body.bottom-bugs .col-md-6 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .col-md-5.D-price {
+        max-width: 40%;
+    }
+    .col-md-2.add_tyer_btn {
+        max-width: 30%;
+        flex: 30%;
+    }
+    .col-md-5.Q-price {
+        flex: 30%;
+        max-width: 30%;
+    }
+    .row.admin-status-row .col-lg-4.col-md-12 {
+        -ms-flex: 0 0 33.333333%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .admin-status-box .row.no-gutters .col-lg-3.col-md-6 {
+        -ms-flex: 0 0 50%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .row.admin-status-row .col-md-4 {
+        margin-bottom: 20px;
+    }
+    .main-container-inner .col-md-4,
+    .main-container-inner .col-md-8 {
+        -ms-flex: 0 0 100%;
+        flex: 100%;
+        max-width: 100%;
+    }
+    .col-md-3 {
+        -ms-flex: 0 0 100%;
+        flex: 100%;
+        max-width: 100%;
+        margin-bottom: 20px;
+    }
+    .statusbox label {
+        padding: 2px;
+        margin-right: 27px;
+    }
+    .statusbox label h2 {
+        font-size: 16px;
+        padding-top: 15px;
+    }
+    .statusbox input[type="radio"]:checked+label::after {
+        font-size: 16px;
+        bottom: -14px;
+        height: 28px;
+        width: 28px;
+        line-height: 29px;
+        box-shadow: 0px 2px 5px -2px rgba(0, 0, 0, 0.25);
+    }
+    .row.profile-info-row .nav-tabs .nav-link {
+        min-width: 90px;
+        font-size: 18px;
+        padding: 10px 12px;
+    }
+    main {
+        padding: 54px 30px 45px 306px;
+    }
+    .statusbox label {
+        width: 98px;
+        height: 55px;
+    }
+    .stylist_gallery tr {
+        width: 50%;
+        margin: 0px;
+    }
+    .haircutimgbox img {
+        width: 100%;
+        min-width: 180px;
+        max-width: 100%;
+        min-height: 180px;
+        max-height: 180px;
+    }
+    .daystatusbox label {
+        width: 132px;
+    }
+    .table-wrapper {
+        overflow: auto;
+        padding: 50px 0px;
+    }
+    .dataTables_length {
+        width: 100%;
+        padding-left: 13px;
+    }
+    div.dataTables_wrapper div.dataTables_filter {
+        text-align: left!important;
+        padding-left: 13px;
+    }
+    .daystatusbox input[type="radio"]:checked+label::after {
+        font-size: 16px;
+        bottom: 9px;
+        left: 24px;
+        height: 30px;
+        width: 30px;
+        line-height: 30px;
+    }
+    .daystatusbox label h2 {
+        font-size: 17px;
+        margin-top: 11px;
+        padding-left: 5px;
+    }
+    .daystatusbox label {
+        width: 132px;
+        height: 50px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        color: rgba(0, 0, 0, .5);
+        text-align: right;
+    }
+    .collapse:not(.show) {
+        display: block;
+    }
+    ul.navbar-nav.mr-auto {
+        flex-direction: row;
+    }
+    .notification-li .dropdownmenutop {
+        display: none;
+    }
+    .dropdown-menu.dropdownmenutop.show {
+        display: block;
+        z-index: 99999;
+        position: absolute;
+    }
+    .sidemenu-wrapper {
+        z-index: 99;
+    }
+    .main-payment-wrapper .d-flex {
+        display: unset!important;
+    }
+    .main-payment-wrapper .midle-pay {
+        width: 100%;
+    }
+    .main-payment-wrapper .right-pay,
+    .main-payment-wrapper .right-pay {
+        width: 100%;
+    }
+    /* mobile css 25-jan  */
+    .float-right.mob-right-txt {
+        width: 311px;
+    }
+    a.btn.btn-success.btn-swtch-temp {
+        padding: 10px 28px;
+        font-size: 12px;
+        float: left;
+        margin-top: 10px;
+    }
+    .float-right.mob-right-txt nav.navbar.navbar-expand-lg.navbar-light {
+        padding-right: 0px;
+    }
+    .mob-rw .container-fluid {
+        padding: 0px;
+    }
+    a.lgot span {
+        font-size: 14px;
+        padding-left: 0px;
+    }
+    .col-md-6.left-home,
+    .col-md-6.right-home {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .col-md-6.left-home .lft-content {
+        padding-top: 0px;
+    }
+    h1.letsh {
+        font-size: 26px!important;
+    }
+    .row.home-row-main {
+        padding: 20px 0px;
+        text-align: center;
+    }
+    div#Builds .col-md-4 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    /* mobile css 25-jan  */
+    .float-right.mob-right-txt .collapse:not(.show) {
+        display: block;
+    }
+    .col-md-4,
+    .col-sm-4,
+    .mainwrapper-inner-container .col-sm-8 {
+        flex: 0 0 100%!important;
+        max-width: 100%!important;
+    }
+    .col-md-3.all_apps.myapp-bx-b img.app-frame {
+        width: 100%;
+    }
+    .col-md-3.all_apps.myapp-bx-b {
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+    .card-body.bottom-bugs .col-md-6 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    div#bugsn .col-md-6,
+    div#Appstore .col-md-6,
+    div#Bugs .col-md-6 {
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .ul-details li.list-inline-item {
+        width: 100%;
+    }
+    button.btn.btn-primary.remove_item {
+        margin-top: 10px;
+    }
+    ul.navbar-nav.mr-auto {
+        width: 122px;
+        float: right;
+    }
+    /*chat page css*/
+    .chatsty .user-wrapper {
+        height: auto;
+    }
+    .chatsty .message-wrapper {
+        padding: 10px;
+        background: #ffffff;
+        height: 46vh;
+    }
+    .mainwrapper-inner-container.chatsty .col-md-8 {
+        flex: 0 0 100%!important;
+        max-width: 100%!important;
+    }
+    .input-text {
+        bottom: -53px;
+        width: 94%;
+    }
+    /*chat page css*/
+}
+
+@media (min-width: 300px) and (max-width: 767px) {
+    div#bugsn .col-md-6 {
+        -ms-flex: 0 0 50%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .float-right.mob-right-txt .collapse:not(.show) {
+        display: block;
+    }
+    a.add-new-app-btn {
+        position: unset;
+        margin-top: 26px;
+        display: block;
+    }
+    .row.admin-status-row .col-md-4 {
+        margin-bottom: 20px;
+    }
+    .img-left-admin-top img {
+        width: 100%;
+    }
+    .daystatusbox.d-flex {
+        display: unset!important;
+    }
+    main {
+        padding-left: 0px;
+    }
+    body.open .sidemenu-wrapper {
+        position: fixed;
+        top: 0px;
+        z-index: 99;
+        left: 0px;
+        top: 103px;
+    }
+    body.open i.fa.fa-bars.closeside {
+        display: block;
+    }
+    i.fa.fa-times.mob-close-icon {
+        position: absolute;
+        right: 9px;
+        color: #040404;
+        background: white;
+        width: 30px;
+        height: 30px;
+        text-align: center;
+        border-radius: 30px;
+        padding-top: 6px;
+        display: block;
+        top: 6px;
+    }
+    h1.top-admin-title {
+        font-size: 24px;
+        letter-spacing: 6px;
+    }
+    .collapse:not(.show) {
+        display: block;
+    }
+    /*css mobile*/
+    .main-container-inner .col-md-4,
+    .main-container-inner .col-md-8 {
+        -ms-flex: 0 0 100%;
+        flex: 100%;
+        max-width: 100%;
+    }
+    .col-md-3 {
+        -ms-flex: 0 0 100%;
+        flex: 100%;
+        max-width: 100%;
+        margin-bottom: 20px;
+    }
+    .statusbox label {
+        padding: 2px;
+        margin-right: 27px;
+    }
+    .statusbox label h2 {
+        font-size: 16px;
+        padding-top: 15px;
+    }
+    .statusbox input[type="radio"]:checked+label::after {
+        font-size: 16px;
+        bottom: -14px;
+        height: 28px;
+        width: 28px;
+        line-height: 29px;
+        box-shadow: 0px 2px 5px -2px rgba(0, 0, 0, 0.25);
+    }
+    .row.profile-info-row .nav-tabs .nav-link {
+        min-width: 90px;
+        font-size: 18px;
+        padding: 10px 12px;
+    }
+    main {
+        padding: 54px 30px 45px 306px;
+    }
+    .statusbox label {
+        width: 98px;
+        height: 55px;
+    }
+    .stylist_gallery tr {
+        width: 50%;
+        margin: 0px;
+    }
+    .haircutimgbox img {
+        width: 100%;
+        min-width: 180px;
+        max-width: 100%;
+        min-height: 180px;
+        max-height: 180px;
+    }
+    .daystatusbox label {
+        width: 132px;
+    }
+    .table-wrapper {
+        overflow: auto;
+        padding: 50px 0px;
+    }
+    .dataTables_length {
+        width: 100%;
+        padding-left: 13px;
+    }
+    div.dataTables_wrapper div.dataTables_filter {
+        text-align: left!important;
+        padding-left: 13px;
+    }
+    .daystatusbox input[type="radio"]:checked+label::after {
+        font-size: 16px;
+        bottom: 9px;
+        left: 24px;
+        height: 30px;
+        width: 30px;
+        line-height: 30px;
+    }
+    .daystatusbox label h2 {
+        font-size: 17px;
+        margin-top: 11px;
+        padding-left: 5px;
+    }
+    .daystatusbox label {
+        width: 132px;
+        height: 50px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        color: rgba(0, 0, 0, .5);
+        text-align: right;
+    }
+    .collapse:not(.show) {
+        display: block;
+    }
+    ul.navbar-nav.mr-auto {
+        flex-direction: row;
+    }
+    .notification-li .dropdownmenutop {
+        display: none;
+    }
+    .dropdown-menu.dropdownmenutop.show {
+        display: block;
+        z-index: 99999;
+        position: absolute;
+    }
+    .sidemenu-wrapper {
+        z-index: 9;
+        /* transition: all ease 1s; */
+        width: 100%;
+        left: 0px;
+        height: 100vh;
+        top: 103px;
+    }
+    i.fa.fa-times.closeiconmob {
+        position: absolute;
+        right: -15px;
+        top: 29px;
+        color: #f9f9f9;
+        background: #444343;
+        width: 30px;
+        height: 30px;
+        border-radius: 50px;
+        text-align: center;
+        padding-top: 4px;
+        border: 2px solid #ccc;
+        font-size: 17px;
+    }
+    .close a.mobilelogoimg {
+        visibility: visible;
+    }
+    .open a.mobilelogoimg {
+        display: none;
+    }
+    .open a.logoimg {
+        display: block;
+    }
+    .close a.logoimg {
+        display: none;
+    }
+    header {
+        z-index: 9;
+    }
+    i.fa.fa-bars.mob-togglebtn {
+        position: absolute;
+        right: -15px;
+        top: 29px;
+        color: #f9f9f9;
+        background: #444343;
+        width: 30px;
+        height: 30px;
+        border-radius: 50px;
+        text-align: center;
+        padding-top: 4px;
+        border: 2px solid #ccc;
+        font-size: 17px;
+    }
+    .close a.mobilelogoimg img {
+        float: right;
+        padding-right: 19px;
+    }
+    body.close ul.sidenavbarul li a span.menuname {
+        display: none;
+    }
+    body.close ul.sidenavbarul li a img {
+        width: 25px;
+        float: right;
+        margin-right: 27px;
+    }
+    body.close ul.sidenavbarul li {
+        margin-bottom: 23px;
+    }
+    body.close li.sidebar-dropdown i.fa.fa-angle-right {
+        position: absolute;
+        right: 15px;
+    }
+    body.close main {
+        padding: 54px 30px 45px 136px;
+    }
+    body.open i.fa.fa-times.closeiconmob {
+        visibility: visible;
+    }
+    body.close main {
+        padding: 54px 0px 39px 0px;
+    }
+    body.close .sidemenu-wrapper {
+        margin-left: -283px;
+    }
+    body.close i.fa.fa-bars.mob-togglebtn {
+        right: -36px;
+    }
+    /*css mobile*/
+    /* mobile css  */
+    body.open .sidemenu-wrapper.mobile-sidenev {
+        transform: translatex(-100%);
+    }
+    body.open .mainwrapper {
+        margin-left: 0px;
+    }
+    body.open i.fa.fa-times.closeside {
+        display: none;
+    }
+    .mob-icons i.fa.fa-bars {
+        font-size: 26px;
+        position: absolute;
+        top: 27px;
+        cursor: pointer;
+    }
+    .mob-icons i.fa.fa-times {
+        display: none;
+    }
+    .mainwrapper {
+        margin-left: 0px;
+    }
+    .mob-icons {
+        display: block;
+    }
+    .row.clearfix.aboutappcontainer .card {
+        overflow: auto;
+    }
+    .row.clearfix.aboutappcontainer table.table {
+        white-space: nowrap;
+    }
+    h1.letsh {
+        font-size: 31px!important;
+    }
+    .row.home-row-main {
+        padding: 20px 0px;
+        text-align: center;
+    }
+    .main-payment-wrapper .d-flex {
+        display: unset!important;
+    }
+    .main-payment-wrapper .midle-pay {
+        width: 100%;
+    }
+    .main-payment-wrapper .right-pay,
+    .main-payment-wrapper .right-pay {
+        width: 100%;
+    }
+    .logo.logo-mob-sidebar {
+        padding: 0px 10px 10px;
+        text-align: center;
+        display: block;
+    }
+    /* mobile css  */
+    /* mobile css 25-jan  */
+    .col-sm-3.mob-col-none {
+        display: none;
+    }
+    .float-right.mob-right-txt {
+        width: 267px;
+    }
+    a.btn.btn-success.btn-swtch-temp {
+        padding: 10px;
+        font-size: 12px;
+        float: left;
+        border-color: #ffffff;
+        margin-top: 10px;
+    }
+    .float-right.mob-right-txt nav.navbar.navbar-expand-lg.navbar-light {
+        padding-right: 0px;
+    }
+    .mob-rw .container-fluid {
+        padding: 0px;
+    }
+    a.lgot span {
+        font-size: 14px;
+        padding-left: 0px;
+    }
+    ul.sidenavbarul {
+        overflow: auto;
+        height: 70vh;
+    }
+    .lft-content {
+        padding: 0px 0px 40px;
+    }
+    .col-sm-9.ryt-dropdown {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .userdetails li {
+        font-size: 13px;
+    }
+    .col-md-4 {
+        flex: 0 0 100%!important;
+        max-width: 100%!important;
+    }
+    ul.navbar-nav.mr-auto {
+        width: 122px;
+        float: right;
+    }
+    a.btn.btn-success.btn-swtch-temp.temp_popup {
+        margin-left: -17px;
+        position: absolute;
+        left: 0px;
+        top: 9px;
+    }
+    /* mobile css 25-jan  */
+    h1.adminname-top {
+        font-size: 24px;
+        text-align: center;
+    }
+    p.tophomep {
+        font-size: 14px;
+        text-align: center;
+    }
+    /*chat page css*/
+    .chatsty .user-wrapper {
+        height: auto;
+    }
+    .chatsty .message-wrapper {
+        padding: 10px;
+        background: #ffffff;
+        height: 52vh;
+    }
+    .input-text {
+        bottom: -53px;
+        width: 91%;
+    }
+    /*chat page css*/
+    li.top-bx.list-inline-item {
+        min-width: 100%;
+        border-radius: 0px!important;
+        margin-bottom: 15px;
+    }
+    /* .custom-tab-content .card-body {
+        padding: 20px 0px;
+    } */
+    .nav.nav-tabs.customnvtab.mt-20 {
+        margin: 9px;
+    }
+    .card.p-20.card-bug-main h6 {
+        margin-top: 11px;
+        font-size: 14px;
+    }
+    .card-body.bottom-bugs p {
+        margin-bottom: 0px;
+        font-size: 13px;
+    }
+    .col-md-12.chat_feature .input-text {
+        bottom: -53px;
+        width: 100%;
+    }
+    .card.uloadlogogrp {
+        padding: 8px;
+    }
+    .right-pay {
+        margin-left: 0px;
+    }
+    .midle-pay,
+    .right-pay {
+        padding: 18px 0px 3px;
+    }
+    ul.list-inline.build-ul li.list-inline-item.d-flex {
+        display: unset!important;
+        text-align: center;
+    }
+    ul.list-inline.build-ul li.list-inline-item.d-flex img,
+    ul.list-inline.build-ul li.list-inline-item.d-flex button.btn.btn-info {
+        display: block;
+        margin: 0 auto;
+    }
+    .mob-rw.super-admin-header ul.navbar-nav.mr-auto {
+        width: auto;
+    }
+    .mob-rw.super-admin-header nav.navbar.navbar-expand-lg.navbar-light {
+        padding-right: 0px;
+    }
+    div#Domain ul.list-inline.ul-details li.list-inline-item {
+        width: 100%;
+    }
+    .col-md-5.Q-price,
+    .col-md-5.D-price {
+        padding: 0px;
+    }
+    .col-md-12.input_fields_container.input_fields_price-main .col-md-2.add_tyer_btn {
+        margin-top: 0px!important;
+    }
+    .bugtablemain {
+        overflow: scroll;
+    }
+    .bugtablemain table#example {
+        min-width: 853px;
+    }
+    .field.row.custom-row-th img {
+        width: 100%;
+    }
+    .theme-right-text h4 {
+        margin-top: 20px;
+    }
+}

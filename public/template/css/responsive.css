@@ -1,0 +1,560 @@
+@media (min-width: 1701px) and (max-width: 5000px) {
+    .own-4-col {
+        -ms-flex: 0 0 16.666667%;
+        flex: 0 0 16.666667%;
+        max-width: 16.666667%;
+    }
+    .own-8-col {
+        flex: 80%;
+        max-width: 80%;
+    }
+}
+
+@media (min-width: 1500px) and (max-width: 1700px) {
+    .log-in-wrapper {
+        height: 97vh;
+        background-size: 100%;
+    }
+    .own-4-col {
+        -ms-flex: 0 0 16.666667%;
+        flex: 25%;
+        max-width: 25%;
+    }
+    .own-8-col {
+        flex: 75%;
+        max-width: 75%;
+    }
+    div#wishlist,
+    div#my_account,
+    div#checkout,
+    div#payment {
+        padding-bottom: 64%;
+    }
+}
+
+@media (min-width: 1300px) and (max-width: 1499px) {
+    .addprdctrowmaintabs .tab button.tablinks {
+        margin-left: 46px;
+        min-width: 93px;
+    }
+    div#wishlist,
+    div#my_account,
+    div#checkout,
+    div#payment {
+        padding-bottom: 56%;
+    }
+    .own-4-col {
+        -ms-flex: 30%;
+        flex: 30%;
+        max-width: 30%;
+    }
+    .own-8-col {
+        flex: 70%;
+        max-width: 70%;
+    }
+    .main-wrapper.main-wrapper-app-st .col-md-8 {
+        padding-right: 0px;
+    }
+    img.bgmb {
+        width: 220px;
+    }
+    .tutorial-video-box-inner {
+        width: 240px;
+        height: 462px;
+        float: right;
+    }
+    .tutorial-video-boxmdl img {
+        width: 100%;
+    }
+    .main-home {
+        padding: 116px 0px 45px 325px;
+    }
+    .sidemenu-wrapper {
+        top: 116px;
+    }
+    .preview-title {
+        font-size: 17px;
+        margin-bottom: 5px;
+    }
+    a#navbarDropdown span.username-top {
+        color: #fff;
+        font-size: 21px;
+    }
+    label.splogoinput,
+    label.spbginput {
+        min-width: 100px;
+    }
+    .preview-title img {
+        width: 25px;
+    }
+    h1.adminname-top {
+        font-size: 36px;
+    }
+    p.tophomep {
+        font-size: 15px;
+        padding: 10px 0px 32px;
+    }
+    .home-services-box p {
+        font-size: 14px;
+    }
+    .home-services-box {
+        padding: 18px;
+        min-height: 231px;
+    }
+    h2.Tutorial-title {
+        padding: 20px 0px 10px;
+        font-weight: 700;
+    }
+    .tutorial-video-boxmdl iframe {
+        height: 259px;
+    }
+    img.applogoimg {
+        top: 36%;
+    }
+    div#splash_screen_bg {
+        height: 452px;
+    }
+    .splash-bgimage img.splashbg {
+        height: 452px;
+    }
+    .appbgcolor {
+        height: 452px;
+    }
+    img.bgmb {
+        height: 452px;
+        width: 220px;
+    }
+    ul.sidenavbarul li a {
+        font-size: 14px;
+    }
+    .app-settings-row label.lbh {
+        font-size: 13px!important;
+    }
+    .error {
+        font-size: 11px;
+    }
+    div#splashscreen .col-md-8.own-8-col {
+        padding-bottom: 201px;
+    }
+    div#login .col-md-8.own-8-col,
+    div#signup .col-md-8.own-8-col {
+        padding-bottom: 120px;
+    }
+}
+
+@media (min-width: 1200px) and (max-width: 1299px) {
+    .tab button {
+        padding: 10px 11px;
+        font-size: 13px;
+    }
+    span.theme-tab-number-green {
+        background: #41d241!important;
+        color: white!important;
+        border-radius: 50px!important;
+        position: absolute!important;
+        top: 3px;
+        left: -22px;
+        width: 33px;
+        height: 33px;
+        font-size: 17px;
+        padding: 5px!important;
+        font-weight: bold;
+        transition: all ease 1s;
+    }
+    span.theme-tab-number-w {
+        position: absolute;
+        top: 6px;
+        left: -28px;
+        width: 40px;
+        height: 40px;
+        font-size: 19px;
+        top: 3px;
+        left: -22px;
+        width: 33px;
+        height: 33px;
+        font-size: 17px;
+        padding: 5px!important;
+    }
+    .tab button {
+        background-color: inherit;
+        float: left;
+        border: none;
+        outline: none;
+        cursor: pointer;
+        padding: 10px 11px;
+        transition: 0.3s;
+        font-size: 13px;
+    }
+    div#wishlist,
+    div#my_account,
+    div#checkout,
+    div#payment {
+        padding-bottom: 64%;
+    }
+    div#splash_screen_bg {
+        height: 463px;
+        border-radius: 23px;
+    }
+    .main-home {
+        padding: 116px 0px 45px 325px;
+    }
+    .preview-title {
+        font-size: 17px;
+        margin-bottom: 5px;
+    }
+    .preview-title img {
+        width: 25px;
+    }
+    .tutorial-video-box-inner {
+        width: 240px;
+        height: 472px;
+        float: right;
+    }
+    .sidemenu-wrapper {
+        top: 115px;
+    }
+    .appbgcolor {
+        height: 451px;
+        top: 11px;
+    }
+    .home-services-box h4 {
+        font-size: 23px;
+    }
+    .row.card.owncard.addprdctrow label.pr-label {
+        font-size: 12px;
+    }
+    input#shipping_length,
+    input#shipping_width,
+    input#shipping_height {
+        padding: 4px 3px;
+    }
+    .error {
+        font-size: 10px;
+    }
+    div#splashscreen .col-md-8.own-8-col {
+        padding-bottom: 201px;
+    }
+    div#login .col-md-8.own-8-col,
+    div#signup .col-md-8.own-8-col {
+        padding-bottom: 120px;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    div#wishlist,
+    div#my_account,
+    div#checkout,
+    div#payment {
+        padding-bottom: 90%;
+    }
+    nav.sidenavbar {
+        padding: 10px;
+    }
+    h1.adminname-top {
+        font-size: 32px;
+    }
+    .main-home {
+        padding: 116px 0px 45px 325px;
+    }
+    ul.sidenavbarul li a {
+        font-size: 14px;
+    }
+    .main-container-inner .row.card.owncard.addprdctrow label.lbh {
+        font-size: 14px!important;
+    }
+    .preview-box {
+        margin-left: 0%;
+    }
+    .preview-title img {
+        width: 25px;
+    }
+    .preview-title {
+        font-size: 16px;
+        margin-bottom: 6px;
+    }
+    .tutorial-video-box-inner {
+        width: 211px;
+        height: 421px;
+        float: right;
+    }
+    .main-home {
+        padding: 118px 0px 45px 288px;
+    }
+    .tutorial-video-box-inner {
+        width: 211px;
+        height: 459px;
+        float: right;
+    }
+    div#splash_screen_bg {
+        height: 412px;
+    }
+    .main-wrapper.main-wrapper-app-st .main-container-inner label.lbh {
+        font-size: 12px!important;
+        max-width: 100%!important;
+        min-width: 100%;
+    }
+    .appbgcolor {
+        width: 188px;
+        height: 413px;
+        border-radius: 18px;
+        top: 11px;
+    }
+    img.logoprv {
+        width: 48px;
+    }
+    .product-name-box h3 {
+        font-size: 11px;
+    }
+    .p-product-des-box p {
+        font-size: 9px;
+    }
+    ul.p-size-ul.list-inline {
+        margin-top: 4px;
+        padding-left: 8px;
+    }
+    a#navbarDropdown {
+        font-size: 22px;
+    }
+    .col-md-4.right-prd h5 {
+        font-size: 18px;
+    }
+    #form_shipping select#inputState {
+        width: 45px;
+    }
+    .col-md-4.select-cm-inch {
+        padding-right: 0px;
+    }
+    input#shipping_length,
+    input#shipping_width,
+    input#shipping_height {
+        padding: 4px 3px;
+    }
+    .sidemenu-wrapper {
+        width: 245px;
+    }
+    .home-services-box h4 {
+        font-size: 22px;
+    }
+    .home-services-box p {
+        font-size: 12px;
+    }
+    .tutorial-video-boxmdl iframe {
+        height: 259px;
+        width: 92%;
+    }
+}
+
+@media (min-width: 768px) and (max-width:991px) {
+    .header-wrapper {
+        border-radius: 7px;
+    }
+    a.nav-link.letbuild {
+        margin-right: 0px;
+        text-align: center;
+    }
+    /* mobile css */
+    body.open .main-home {
+        padding: 111px 0px 45px 0px;
+    }
+    body.open .main-home {
+        padding: 126px 15px 45px 15px;
+    }
+    .temp-mob-icons {
+        display: block;
+        position: absolute;
+        left: 13px;
+        z-index: 2;
+        top: 17px;
+        font-size: 21px;
+    }
+    body.open .sidemenu-wrapper {
+        left: -100%;
+    }
+    body.open .main-home {
+        padding: 90px 0px 45px 0px;
+    }
+    .mobile-right-header {
+        display: block;
+    }
+    .temp-mob-logo a.navbar-brand.desktop-navbarlogo {
+        font-size: 25px;
+    }
+    .preview-box {
+        position: unset;
+    }
+    .dropdown-menu.right-drp {
+        display: none;
+    }
+    li.nav-item.dropdown.show .dropdown-menu.right-drp {
+        display: block;
+        position: absolute;
+    }
+    nav.navbar.navbar-expand-lg.navbar-light.bg-light li.nav-item.dropdown {
+        padding-right: 0px;
+    }
+    .dropdown-menu.right-drp {
+        left: -73px;
+    }
+    a#navbarDropdown {
+        font-size: 19px;
+    }
+    .maininnerallpagescontainer {
+        margin-right: 0px;
+        min-height: auto;
+    }
+    .home-services-box {
+        min-height: auto;
+        margin-bottom: 24px;
+    }
+    .tutorial-video-boxmdl iframe {
+        width: 100%;
+    }
+    .main-home {
+        padding: 88px 0px 45px 0px;
+    }
+    header {
+        padding: 4px;
+        width: 100%;
+    }
+    a.mob-a-d {
+        display: block!important;
+    }
+    .sidemenu-wrapper {
+        top: 74px;
+        left: 0px;
+        width: 100%;
+        height: 100vh;
+        border-radius: 0px;
+        /* transition: all ease 1s; */
+    }
+}
+
+@media (min-width: 300px) and (max-width: 767px) {
+    .header-wrapper {
+        border-radius: 7px;
+    }
+    a.nav-link.letbuild {
+        margin-right: 0px;
+        text-align: center;
+    }
+    /* mobile css */
+    body.open .main-home {
+        padding: 111px 0px 45px 0px;
+    }
+    body.open .main-home {
+        padding: 126px 15px 45px 15px;
+    }
+    .temp-mob-icons {
+        display: block;
+        position: absolute;
+        left: 13px;
+        z-index: 2;
+        top: 17px;
+        font-size: 21px;
+        cursor: pointer;
+    }
+    body.open .sidemenu-wrapper {
+        left: -100%;
+    }
+    body.open .main-home {
+        padding: 90px 0px 45px 0px;
+    }
+    .mobile-right-header {
+        display: block;
+    }
+    .temp-mob-logo a.navbar-brand.desktop-navbarlogo {
+        font-size: 25px;
+    }
+    .preview-box {
+        position: unset;
+    }
+    .dropdown-menu.right-drp {
+        display: none;
+    }
+    li.nav-item.dropdown.show .dropdown-menu.right-drp {
+        display: block;
+        position: absolute;
+    }
+    nav.navbar.navbar-expand-lg.navbar-light.bg-light li.nav-item.dropdown {
+        padding-right: 0px;
+    }
+    .dropdown-menu.right-drp {
+        left: -73px;
+    }
+    a#navbarDropdown {
+        font-size: 19px;
+    }
+    .maininnerallpagescontainer {
+        margin-right: 0px;
+        min-height: auto;
+    }
+    .home-services-box {
+        min-height: auto;
+        margin-bottom: 24px;
+        text-align: center;
+    }
+    .tutorial-video-boxmdl iframe {
+        width: 100%;
+    }
+    .main-home {
+        padding: 88px 0px 45px 0px;
+    }
+    header {
+        padding: 4px;
+        width: 100%;
+    }
+    a.mob-a-d {
+        display: block!important;
+    }
+    .sidemenu-wrapper {
+        top: 74px;
+        left: 0px;
+        width: 100%;
+        height: 100vh;
+        border-radius: 0px;
+        /* transition: all ease 1s; */
+    }
+    h1.adminname-top {
+        font-size: 25px;
+        text-align: center;
+    }
+    p.tophomep {
+        font-size: 14px;
+        text-align: center;
+    }
+    .card-header.text-center.table-heading h2 {
+        font-size: 17px;
+    }
+    /* mobile css */
+    .preview-title {
+        font-size: 25px;
+        margin-top: 18px;
+    }
+    .tutorial-video-box-inner {
+        float: unset;
+    }
+    .dataTables_wrapper .col-sm-12 {
+        overflow: auto;
+    }
+    img#display_image_screen,
+    img#display_image_screen_2,
+    img#display_image_screen_3 {
+        max-height: 70px;
+        width: 76px;
+        display: block;
+        margin: 0 auto;
+    }
+    div#splashscreen .card-body,
+    div#login .card-body,
+    div#signup .card-body {
+        padding: 0px;
+    }
+    div#splashscreen label.lbh,
+    div#login label.lbh,
+    div#signup label.lbh {
+        display: block;
+        min-width: 213px;
+        font-weight: 600;
+        font-size: 15px;
+    }
+}
